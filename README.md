@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caiminerva
 - 👀 I’m interested in Data Science, Computer Visuals, Machine Learning, and Artificial Intelligence
-- 🌱 I’m currently learning Intermediate Python and advanced modules such as OpenCV, Flask, NumPy, Tensorflow and etc.
+- 🌱 I’m currently learning Data Science and Machine Leaning.
 - 📫 You can reach me by my email: johncairoq.minerva@gmail.com or dm me at discord: noctis#4454
 
 <!---
