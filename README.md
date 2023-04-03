@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caiminerva
-- 👀 I’m interested in Data Science, Computer Visuals, Machine Learning, and Artificial Intelligence
+- 👀 I’m interested in Data Science, Artificial Intelligence, Web Scraping and Machine Learning.
 - 🌱 I’m currently learning Data Science and Machine Leaning.
 - 📫 You can reach me by my email: johncairoq.minerva@gmail.com or dm me at discord: noctis#4454
 
